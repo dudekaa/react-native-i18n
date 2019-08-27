@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-i18n-js@3.0.11:
-  version "3.0.11"
-  resolved "https://registry.yarnpkg.com/i18n-js/-/i18n-js-3.0.11.tgz#f9e96bdb641c5b9d6be12759d7c422089987ef02"
+i18n-js@dudekaa/i18n-js:
+  version "3.3.0"
+  resolved "https://codeload.github.com/dudekaa/i18n-js/tar.gz/9ecaa04f38932b0906199559b85df0ac1e99e3f2"
